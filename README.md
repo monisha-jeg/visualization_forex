@@ -1,4 +1,4 @@
-# Visualization of Foreign Exchange Rates with respect to the US Dollar, from 2000 to 2019
+# Data Visualization - Foreign Exchange Rates
 
 #### This repository contains a graphical analysis on the [Foreign Exchange Dataset](https://drive.google.com/file/d/1XVWwQlcaozVjF6UnBUIIFdC67X-sMeee/view). This dataset contains the exchange rates for several countries with respect to the US Dollar, from 2000 to 2019.
 
